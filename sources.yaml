@@ -1,0 +1,10 @@
+- filename: DBLP.bib
+  search_type: FEED
+  source_name: Decision Support Systems
+  source_url: ''
+  search_parameters: 
+    - endpoint: dblp
+      params: 
+        venue_key: journals/dss
+        journal_abbreviated: Decis. Support Syst.
+  comment: ''
