@@ -15,4 +15,4 @@
   search_parameters: NA
   comment: NA
   outlet: journal=Decision Support Systems
-  sub_dir_pattern: volume_number
+  sub_dir_pattern: volume
