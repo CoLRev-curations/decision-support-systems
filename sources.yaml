@@ -8,3 +8,11 @@
         venue_key: journals/dss
         journal_abbreviated: Decis. Support Syst.
   comment: ''
+- filename: pdfs.bib
+  search_type: PDFS
+  source_name: DSS
+  source_url: pdfs
+  search_parameters: NA
+  comment: NA
+  outlet: journal=Decision Support Systems
+  sub_dir_pattern: volume_number
