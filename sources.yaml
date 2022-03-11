@@ -4,9 +4,7 @@
   source_url: ''
   search_parameters: 
     - endpoint: dblp
-      params: 
-        venue_key: journals/dss
-        journal_abbreviated: Decis. Support Syst.
+      params: SCOPE venue_key='journals/dss' AND journal_abbreviated='Decis. Support Syst.'
   comment: ''
 - filename: pdfs.bib
   search_type: PDFS
@@ -15,12 +13,11 @@
   search_parameters: NA
   comment: NA
   outlet: journal=Decision Support Systems
-  sub_dir_pattern: volume
+  sub_dir_pattern: volume_number
 - filename: CROSSREF.bib
   search_type: FEED
   source_name: Decision Support Systems
   source_url: ''
   search_parameters: 
     - endpoint: crossref
-      params:
-        journal_issn: '0167-9236'
+      params: SCOPE journal_issn='0167-9236'
