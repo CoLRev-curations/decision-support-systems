@@ -189,8 +189,7 @@
     },
     "prescreen": {
         "explanation": "",
-        "prescreen_package_endpoints": [
-        ]
+        "prescreen_package_endpoints": []
     },
     "pdf_get": {
         "pdf_path_type": "symlink",
