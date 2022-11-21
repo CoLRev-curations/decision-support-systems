@@ -337,7 +337,6 @@ colrev environment --install geritwagner/decision-support-systems
 |--7-4         |               -|               -|             *1*|              NO|
 |--7-3         |               -|               -|             *1*|              NO|
 |--6-2         |               -|               -|             *1*|              NO|
-|--5-1         |               -|               -|             *1*|              NO|
 |--4-4         |               -|               -|             *1*|              NO|
 |--39-4        |               -|               -|             *1*|              NO|
 |--37-2        |               -|               -|             *1*|              NO|
