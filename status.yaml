@@ -1,5 +1,5 @@
 atomic_steps: 56391
-completed_atomic_steps: 26863
+completed_atomic_steps: 27296
 completeness_condition: false
 currently:
   exclusion: {}
@@ -16,9 +16,9 @@ currently:
   pdf_needs_manual_retrieval: 41
   pdf_needs_retrieval: 1
   pdf_not_available: 0
-  pdf_prepared: 433
+  pdf_prepared: 0
   rev_excluded: 0
-  rev_included: 0
+  rev_included: 433
   rev_prescreen_excluded: 0
   rev_prescreen_included: 1
   rev_synthesized: 2995
@@ -35,7 +35,7 @@ overall:
   pdf_not_available: 0
   pdf_prepared: 3428
   rev_excluded: 0
-  rev_included: 2995
+  rev_included: 3428
   rev_prescreen: 3475
   rev_prescreen_excluded: 0
   rev_prescreen_included: 3475
