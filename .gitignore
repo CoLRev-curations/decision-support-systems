@@ -5,3 +5,5 @@ venv
 .references_learned_settings
 .corrections.ipynb_checkpoints/
 pdfs
+data/.tei/
+data/pdf_duplicates/
