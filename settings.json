@@ -121,6 +121,9 @@
             {
                 "endpoint": "colrev.export_man_prep"
             }
+        ],
+        "defects_to_ignore": [
+            "record-not-in-toc"
         ]
     },
     "dedupe": {
