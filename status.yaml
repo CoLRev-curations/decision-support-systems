@@ -1,4 +1,4 @@
-atomic_steps: 56369
+atomic_steps: 56409
 completed_atomic_steps: 30091
 completeness_condition: false
 currently:
@@ -8,7 +8,7 @@ currently:
   md_needs_manual_preparation: 499
   md_prepared: 354
   md_processed: 0
-  md_retrieved: 0
+  md_retrieved: 5
   non_completed: 899
   non_processed: 853
   pdf_imported: 0
@@ -28,7 +28,7 @@ overall:
   md_needs_manual_preparation: 4668
   md_prepared: 4169
   md_processed: 3815
-  md_retrieved: 11543
+  md_retrieved: 11548
   pdf_imported: 3373
   pdf_needs_manual_preparation: 3373
   pdf_needs_manual_retrieval: 3414
