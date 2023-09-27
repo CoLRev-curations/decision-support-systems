@@ -41,7 +41,9 @@
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
-                    "issn": "0167-9236"
+                    "issn": [
+                        "0167-9236"
+                    ]
                 }
             },
             "comment": ""
